@@ -1,0 +1,8 @@
+streamlit
+pymongo
+pandas
+openpyxl
+opencv-python-headless
+numpy
+Pillow
+pymupdf
